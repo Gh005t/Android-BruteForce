@@ -20,7 +20,3 @@ Go to the location where you have saved the given file for Example if you have s
 1st make Brute.sh file executable to do that just type (chmod +x Brute.sh) using terminal 
 now jst type ( ./Brute.sh ) without bracket :-P
 Brute Force will start on device it will start combination of all the 4 digit pin right from (0000 to 9999)
-
-
-
-THE Brute.sh File is not completed yet but it will work TILL PIN (0000 to 0139)
